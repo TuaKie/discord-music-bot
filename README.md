@@ -18,6 +18,7 @@ git clone https://github.com/TuaKie/discord-music-bot.git
 - Step 6: Edit file ``botconfig.js``
 
 Finally, click ``Run``. Invite bot to your server and chill.
+
   **__Import Github__**
 - Step 1: Open [Replit](https://replit.com/) and Login to your account 
 - Step 2:  Create New Relp 
