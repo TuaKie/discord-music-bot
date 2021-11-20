@@ -30,7 +30,7 @@ https://github.com/TuaKie/discord-music-bot.git
 - Step 4: Edit file ``botconfig.js``
 
 Finally, click ``Run``. Invite bot to your server and chill.
------------------
+
 Source Code: [Sudhan](https://github.com/SudhanPlayz)
     
 
