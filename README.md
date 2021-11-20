@@ -23,7 +23,7 @@ Finally, click ``Run``. Invite bot to your server and chill.
 - Step 2:  Create New Relp 
       **Note**: Choose ``Import from GitHub``
       ![image](https://user-images.githubusercontent.com/76782169/142714112-23021a52-1ff8-4c0c-a3e7-cd7e0d6e2c63.png)
-- Step 3: At the `Github Url` fill 
+- Step 3: At the `Github Url` and fill in it by code below:
 ```
 https://github.com/TuaKie/discord-music-bot.git
 ```
